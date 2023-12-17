@@ -4,9 +4,9 @@
 	
 - PGDM, Business Analytics	                     	Dr D.Y. Patil Business School, Pune                                                       2023
 - Bachelor Of Engineering, Civil Engineering      	East Point College of Engineering & Technology, VTU                                       2019                                                                                                                                                                                                                                                                                                                                            
-### WORK EXPERIENCE	
+###  WORK EXPERIENCE	
 
-- Airpay Payment Services, Pvt.Ltd, Mumbai                                                                                                                                                          06/2023 – 08/2023
+- Airpay Payment Services, Pvt.Ltd, Mumbai                                                                                                        06/2023 – 08/2023
 
  -Product Management Trainee		 							
 
