@@ -8,7 +8,7 @@
 - Bachelor Of Engineering, Civil Engineering    |  	East Point College of Engineering & Technology, VTU                                       2019                                                                                                                                                                                                                                                                                                                                            
 ## WORK EXPERIENCE	
 
-** Product Management Trainee @Airpay Payment Services, Pvt.Ltd, Mumbai (06/2023 – 08/2023)  
+**Product Management Trainee @Airpay Payment Services, Pvt.Ltd, Mumbai (06/2023 – 08/2023)  
 
 - Participated in AGILE Methodology, participated in scrum and other planning meetings, created wireframes and design documentation for web and mobile applications.
 - Conducted demos for all the stakeholders to collect application requirement and prepare the business process, define user role and development roadmap presentation
