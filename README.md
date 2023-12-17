@@ -1,5 +1,5 @@
 # Aspring Data Analyst
-###EDUCATION
+###  EDUCATION
 	PGDM, Business Analytics	                     	Dr D.Y. Patil Business School, Pune                                                         2023
 	Bachelor Of Engineering, Civil Engineering      	East Point College of Engineering & Technology, VTU                                       2019                                                                                                                                                                                                                                                                                                                                             
 ### WORK EXPERIENCE	
