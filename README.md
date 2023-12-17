@@ -2,11 +2,11 @@
 
 ####  Technical Skills : SQL, Microsoft Excel, Basics Of Python, Machine Learning
 
-##  EDUCATION
+## EDUCATION
 	
 - PGDM, Business Analytics	      |               	Dr D.Y. Patil Business School, Pune                                                       2023
 - Bachelor Of Engineering, Civil Engineering    |  	East Point College of Engineering & Technology, VTU                                       2019                                                                                                                                                                                                                                                                                                                                            
-##  WORK EXPERIENCE	
+## WORK EXPERIENCE	
 
 ** Product Management Trainee @Airpay Payment Services, Pvt.Ltd, Mumbai (06/2023 – 08/2023)  
 
@@ -29,7 +29,9 @@
 - Collaborated with stakeholders to define and document data requirements.
 - Skills: Documentation · Data Visualization · Market Analysis · Communication · Logistic Regression · NumPy · Sklearn · Seaborn · Analytics · Presentations
 
-**Market Research Intern@ Allied Market Research, Pune  (02/2022 – 04/2022)                                                                                                                                	                                                                                                                            - Conducted secondary research to build the analytical sections within reports and identified data points and market trends to authenticate market data within internal databases.
+**Market Research Intern@ Allied Market Research, Pune  (02/2022 – 04/2022)
+
+- Conducted secondary research to build the analytical sections within reports and identified data points and market trends to authenticate market data within internal databases.
 - Presented analytical reports on different verticals such as Chemicals & Materials / Healthcare / Food & Beverages/ Consumer Goods / ICT etc. on key market trends and on key issues impacting the industry
 - Worked on company profiling, competitive landscape analysis, Porter's Five Forces, PESTLE analysis, and SWOT analysis.
 - Gathered information from various sources such as industry reports, news articles, government data, and academic publications and transformed them into valuable insights for decision-making.
