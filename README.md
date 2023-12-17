@@ -6,9 +6,9 @@
 	
 - PGDM, Business Analytics	      |               	Dr D.Y. Patil Business School, Pune                                                       2023
 - Bachelor Of Engineering, Civil Engineering    |  	East Point College of Engineering & Technology, VTU                                       2019                                                                                                                                                                                                                                                                                                                                            
-### WORK EXPERIENCE	
+###  WORK EXPERIENCE	
 
-** Product Management Trainee @Airpay Payment Services, Pvt.Ltd, Mumbai (06/2023 – 08/2023) ** 
+**Product Management Trainee @Airpay Payment Services, Pvt.Ltd, Mumbai (06/2023 – 08/2023)** 
 
 - Participated in AGILE Methodology, participated in scrum and other planning meetings, created wireframes and design documentation for web and mobile applications.
 - Conducted demos for all the stakeholders to collect application requirement and prepare the business process, define user role and development roadmap presentation
@@ -16,7 +16,7 @@
 - Collaborated in defining the Functional Requirements Specification document.
 - Provided references for users by writing and maintaining user documentation; providing help desk support, training users.
 
-** Data Analyst Trainee@Feynn Labs Consultancy Services, Guwahati (02/2023 - 05/2023) **
+**Data Analyst Trainee@Feynn Labs Consultancy Services, Guwahati (02/2023 - 05/2023)**
 - Collected, cleaned, and pre-processed large datasets to ensure data quality and integrity.
 - Conducted exploratory data analysis to identify trends, patterns, and outliers.
 - Performed statistical analysis and generated insights to support business objectives.
@@ -29,7 +29,7 @@
 - Collaborated with stakeholders to define and document data requirements.
 - Skills: Documentation · Data Visualization · Market Analysis · Communication · Logistic Regression · NumPy · Sklearn · Seaborn · Analytics · Presentations
 
-** Market Research Intern@ Allied Market Research, Pune  (02/2022 – 04/2022) **
+**Market Research Intern@ Allied Market Research, Pune  (02/2022 – 04/2022)**
 
 - Conducted secondary research to build the analytical sections within reports and identified data points and market trends to authenticate market data within internal databases.
 - Presented analytical reports on different verticals such as Chemicals & Materials / Healthcare / Food & Beverages/ Consumer Goods / ICT etc. on key market trends and on key issues impacting the industry
